@@ -6,7 +6,7 @@
 
 <p>In this example, x, y, and z are variables.</p>
 
-<p id="arun"></p>
+<p id="akhil"></p>
 
 <script>
 var x = 5;
